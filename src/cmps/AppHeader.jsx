@@ -26,10 +26,10 @@ export function AppHeader() {
 
 
 
-    function onToggleToyt(ev) {
-        ev.preventDefault()
-        dispatch({ type: TOGGLE_TOYT_IS_SHOWN })
-    }
+    // function onToggleToyt(ev) {
+    //     ev.preventDefault()
+    //     dispatch({ type: TOGGLE_TOYT_IS_SHOWN })
+    // }
 
     return (
         <header className="app-header full main-layout">

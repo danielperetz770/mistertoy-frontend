@@ -1,0 +1,10 @@
+.app-header {
+    background: linear-gradient(-700deg, var(--clr1), var(--clr3bg));
+    color: var(--clr1bg);
+    padding-block: 1em;
+}
+
+.app-nav {
+    display: flex;
+    gap: 15px;
+}
